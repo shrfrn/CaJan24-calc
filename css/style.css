@@ -11,6 +11,7 @@ h1 {
     text-wrap: balance;
     letter-spacing: 2px;
     margin-block-end: 100px;
+    color: gray;
 }
 
 table {
